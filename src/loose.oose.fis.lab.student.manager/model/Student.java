@@ -13,7 +13,7 @@ public class Student {
 
     @Override
     public String toString() {
-        //toString generated implementation
+
     }
 
     @Override
