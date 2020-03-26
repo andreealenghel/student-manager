@@ -1,4 +1,3 @@
-package model;
 package loose.oose.fis.lab.student.manager.model;
 
 public class Student {
@@ -29,4 +28,3 @@ public class Student {
     //generated getters and setters for all fields
 
 }
-
